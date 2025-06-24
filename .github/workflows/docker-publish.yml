@@ -26,3 +26,4 @@ jobs:
         context: .
         push: true
         tags: ghcr.io/wstanczyk/ml-ci-cd:latest
+#1
